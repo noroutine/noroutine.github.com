@@ -3,7 +3,7 @@
 We are a small team of highly skilled DevOps engineers ready to help you solve your challenges in modern cloudy world by offering our consultancy services
 
 ### What we do
-We provide IT-consultancy, focused on DevOps
+We provide IT-consultancy, focused on DevOps, both on-site and remote
 
 Our expertise spans programming, devops, networking, infrastructure deployments and most of modern cloud platforms and technologies.
 
@@ -11,7 +11,11 @@ If you're from one of those IT-companies from 2000s who realized that DevOps is 
 
 If you plan to kick-off new IT-product, project or even complete department - we will help you build highly-available agile infrastructures, teams and tooling, that will make you, your teams and your customers satisfied about your new venture,
 
-If you face growth and want to increase your uptime and keep risky changes under control and deliver on time - we'll pove you a way to achieve both HA and continuous delivery
+If you face growth and want to increase your uptime and keep risky changes under control and deliver on time - we'll pave you a way to achieve both HA and continuous delivery
+
+### Where are we?
+
+We are in the cloud, but our hearts are in Munich, Germany
 
 ### How to reach us
 Send something at oleksiy at noroutine dot me to get in touch, and we'll come back to you
