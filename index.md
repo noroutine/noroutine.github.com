@@ -1,5 +1,3 @@
-Welcome to Noroutine world! 
-
 ### Who we are
 
 We are a small team of highly skilled DevOps engineers ready to help you solve your challenges in modern cloudy world by offering our consultancy services
