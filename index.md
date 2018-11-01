@@ -1,19 +1,19 @@
-Hi there,
+Welcome to Noroutine world! 
 
-My name is Alex, I live in Munich and mostly try to have fun, or I just imagine it... Overall my life goal is to conquer this planet and live the rest of my life in eternal joy and happiness. 
+### Who we are
 
-I am both programmer and devops guy, mostly write in Go, Java, Groovy, JavaScript, but I can crack anything (I was doing Prolog guys - serious stuff). 
- 
-I've made some nice tools, like [dust4j](http://dust4j.noroutine.me/) and [Tobacco](http://tobacco.noroutine.me/) - pretty useful stuff I think... 
+We are a small team of IT-all-arounders ready to help you solve your challenges in modern cloudy world by offering our consultancy services
 
-[ffhash](http://noroutine.me/ffhash) might be of interest as well - a fast consistent hashing algorithm for DHT on a small cluster
+### What we do
+We provide IT-consultancy, focused on DevOps
 
-When I feel so, I also eventually write to [Please blog](http://please.noroutine.me). Just to not let you say that I didn't tell this - sometimes it's in Russian, sometimes in Ukrainian, sometimes in English, sometimes in Java, whichever language I felt was better - be careful.
+Our expertise spans programming, devops, networking, infrastructure deployments and most of modern cloud platforms and technologies.
 
-In case you didn't find anything above worth your attention, I have a safety belt - my [noroutine techno radio stream](http://radio.noroutine.me), where sometimes you can catch me making stupid comments on awesome techno/house tracks i mix. 
+If you're from one of those IT-companies from 2000s who realized that DevOps is a better way to go forward, but not sure how to make that leap - we are ready to bring your legacy and processes to the modern age, open your teams to devops practices and curate cultural shifts across all departments in your company.
 
-Anyway, you are somehow landed here and probably want to jump out somewhere else, so I just left my [LinkedIn Profile](https://www.linkedin.com/in/oleksiykhilkevich) as a portal for you. Shoot your best offer!
+If you plan to kick-off new IT-product, project or even complete department - we will help you build highly-available agile infrastructures, teams and tooling, that will make you, your teams and your customers satisfied about your new venture,
 
-If you dare, you can also send me something at alex at noroutine dot me.
+If you face growth and want to increase your uptime and keep risky changes under control and deliver on time - we'll pove you a way to achieve both HA and continuous delivery
 
-Cheers
+### How to reach us
+Send something at oleksiy at noroutine dot me to get in touch, and we'll come back to you
