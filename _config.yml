@@ -1,0 +1,8 @@
+title: Noroutine
+description: my very own hq
+google_analytics: UA-36916068-1
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
