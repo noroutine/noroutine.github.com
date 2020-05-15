@@ -1,8 +1,8 @@
-### Who we are
+## Who we are
 
 We are a small team of highly skilled DevOps engineers ready to help you solve your challenges in modern cloudy world by offering our consultancy services
 
-### What we do
+## What we do
 We provide IT-consultancy, focused on DevOps, both on-site and remote
 
 Our expertise spans programming, devops, networking, infrastructure deployments and most of modern cloud platforms and technologies.
@@ -13,9 +13,12 @@ If you plan to kick-off new IT-product, project or even complete department - we
 
 If you face growth and want to increase your uptime and keep risky changes under control and deliver on time - we'll pave you a way to achieve both HA and continuous delivery
 
-### Where are we?
+## Where are we?
 
 We are in the cloud, but our hearts are in Munich, Germany
 
-### How to reach us
+## How to reach us
 Send something at info at noroutine dot me to get in touch, and we'll come back to you
+
+---
+[Impressum](impressum.html)
