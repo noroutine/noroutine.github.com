@@ -1,7 +1,8 @@
 title: Noroutine
-description: Welcome to Noroutine HQ! 
+description: IT-consultancy on-site and remote
 google_analytics: UA-36916068-1
 show_downloads: false
+is_project_page: false
 theme: jekyll-theme-minimal
 
 gems:
