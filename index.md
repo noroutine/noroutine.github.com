@@ -18,4 +18,4 @@ If you face growth and want to increase your uptime and keep risky changes under
 We are in the cloud, but our hearts are in Munich, Germany
 
 ### How to reach us
-Send something at oleksiy at noroutine dot me to get in touch, and we'll come back to you
+Send something at info at noroutine dot me to get in touch, and we'll come back to you
