@@ -1,33 +1,34 @@
+# Impressum (Rechtshinweis)
+
 <div>
-    <h1>Impressum (Rechtshinweis)</h1>
-    <table className="table table-sm">
+    <table>
         <tbody>
         <tr>
-            <th>Name des Unternehmens</th>
+            <td>Name des Unternehmens</td>
             <td>Noroutine UG (haftungsbeschränkt)</td>
         </tr>
         <tr>
-            <th>Handelsregister</th>
+            <td>Handelsregister</td>
             <td>Amtsgericht München HRB 243905</td>
         </tr>
         <tr>
-            <th>USt-ID</th>
+            <td>USt-ID</td>
             <td>DE320189980</td>
         </tr>
         <tr>
-            <th>Unternehmensvertreters</th>
+            <td>Unternehmensvertreters</td>
             <td>Oleksii Khilkevych</td>
         </tr>
         <tr>
-            <th>Geschäftsadresse</th>
+            <td>Geschäftsadresse</td>
             <td>Noroutine UG, Berg-am-Laim Str., 65, 81673, München, DE</td>
         </tr>
         <tr>
-            <th>Telefon</th>
+            <td>Telefon</td>
             <td>+49 (0) 1631669687</td>
         </tr>
         <tr>
-            <th>E-mail</th>
+            <td>E-mail</td>
             <td>info@noroutine.me</td>
         </tr>
         </tbody>
