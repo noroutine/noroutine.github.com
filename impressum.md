@@ -1,4 +1,4 @@
-# Impressum (Rechtshinweis)
+## Impressum (Rechtshinweis)
 
 <div>
     <table>
