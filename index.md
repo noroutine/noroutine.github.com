@@ -13,7 +13,7 @@ If you plan to kick-off new IT-product, project or even complete department - we
 
 If you face growth and want to increase your uptime and keep risky changes under control and deliver on time - we'll pave you a way to achieve both HA and continuous delivery
 
-## Where are we?
+## Where we are
 
 We are in the cloud, but our hearts are in Munich, Germany
 
