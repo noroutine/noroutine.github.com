@@ -21,4 +21,4 @@ We are in the cloud, but our hearts are in Munich, Germany
 Send something at info at noroutine dot me to get in touch, and we'll come back to you
 
 ---
-[Join](https://apply.nrtn.io/) · [Impressum](impressum.html)
+[Join](https://apply.nrtn.io/) · [LinkedIn](https://www.linkedin.com/company/noroutine/) · [Impressum](impressum.html)
