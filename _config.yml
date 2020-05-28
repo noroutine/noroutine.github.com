@@ -2,9 +2,9 @@ title: Noroutine
 description: IT-consultancy on-site and remote
 google_analytics: UA-36916068-1
 theme: jekyll-theme-minimal
-show_downloads: false
 github:
   is_project_page: false
+show_downloads: false
 
 gems:
   - jekyll-mentions
